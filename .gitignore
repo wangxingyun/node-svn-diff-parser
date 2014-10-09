@@ -1,0 +1,6 @@
+_Store
+node_modules/
+.idea/
+api/
+app.sublime-workspace
+sftp-config.json

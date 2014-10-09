@@ -1,0 +1,37 @@
+{
+  "name": "svn-diff-parser",
+  "version": "0.0.1",
+  "description": "SVN Diff Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wangxingyun/node-svn-diff-parser.git"
+  },
+  "keywords": [
+    "diff",
+    "parser",
+    "render",
+    "svn"
+  ],
+  "author": {
+    "name": "wangxingyun",
+    "email": "wangxy2@live.cn"
+  },
+  "license": "",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "jade": ">=0.34.1"
+  },
+  "bin": {
+    "diff2html": "./bin/diff2html"
+  },
+  "bugs": {
+    "url": "https://github.com/wangxingyun/node-svn-diff-parser/issues"
+  },
+  "homepage": "https://github.com/wangxingyun/node-svn-diff-parser"
+}
